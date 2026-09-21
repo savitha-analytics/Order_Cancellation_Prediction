@@ -1,4 +1,4 @@
-readme_content = """
+"""
 # Food Order Cancellation Prediction Using Machine Learning
 
 ## Project Overview
